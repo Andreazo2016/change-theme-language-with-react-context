@@ -8,6 +8,6 @@ Tema Light em Português e Inglês.
     ![light-portugues](assets/tema-light-em-português.png)
     ![light-ingles](assets/tema-light-ingles.png)
 
-Tema dark em POrtuguês e Inglês
+Tema dark em Português e Inglês
     ![dark-portugues](assets/tema-dark-portugues.png)
     ![dark-ingles](assets/tema-dark-ingles.png)
